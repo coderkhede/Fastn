@@ -41,7 +41,7 @@ cta-item2-link: /Fastn/resume
 ;; -----------------------------------------------------
 
 -- toast.stack:
-title: Hello, I'm aspiring fastn developer based in India
+title: Hello, Welcome to my PORTFOLIO
 link: https://github.com/coderkhede
 
 ;; -----------------------------------------------------
@@ -136,7 +136,7 @@ image: $assets.files.images.mail.png
 -- end: ftd.column
 
 -- ftd.image:
-src: $assets.files.images.developer.png
+src: https://avatars.githubusercontent.com/u/119113555?s=400&u=c5b78e5c629fa6769c7651c57c4c952c3506105f&v=4
 width.fixed.px: 400
 
 -- end: ftd.row
