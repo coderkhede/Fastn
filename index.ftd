@@ -72,8 +72,8 @@ firstTitle: I'm
 secondTitle: Prakhar Khedekar,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: Software Developer
-secondTitle: Programmer
+firstTitle: Software
+secondTitle: Developer
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: and
@@ -170,11 +170,11 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: Prakhar Khedekar,
+secondTitle: PrakharKhedekar,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: Sofware Developer
-secondTitle: Programmer
+firstTitle: Sofware
+secondTitle: Developer
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: and
